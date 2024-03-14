@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](b.bruno0908@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&hplogo=instagram&logoColor=white)](https://istagram.com/brunoalves0908)
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunodev21&show_icons=true&theme=dracula)
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunodev21&show_icons=true&theme=highcontrast)
 
 ## Tecnologias que eu usei e uso na minha carreira
 
