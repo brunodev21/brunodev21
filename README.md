@@ -24,4 +24,11 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div><br/>
 
+## OS
+
+<div style="display: inline block"><br/>
+   <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+   <img align="center" alt="html5" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
+</div><br/>
+
 #### "Em um mundo movido pela tecnologia, minha paixão é transformar desafios em oportunidades digitais."
